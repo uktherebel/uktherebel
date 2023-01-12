@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @uktherebel
+- 👋 Hi, I’m Usama!
 - 👀 I’m interested in SQL, Python, Data Analytics, Web Development
 - 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me 
+- 📫 How to reach me: usamakhaliduk16@gmail.com
 
 <!---
 uktherebel/uktherebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
