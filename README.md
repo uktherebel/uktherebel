@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usama!
-- 👀 I’m interested in SQL, Python, Data Analytics, Machine Learning, and AI 
+- 👀 I’m interested in SQL, Python, Data Analytics, Deep Learning, Machine Learning, Texting Mining, and AI
 - 🌱 I’m currently learning SQL, Python, and Tableau
 - 📫 How to reach me: usamakhaliduk16@gmail.com
 - 😄 Pronouns: He/Him
